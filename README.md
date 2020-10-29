@@ -36,7 +36,7 @@ We began by dealing with the unbalanced dataset, and utilize ensemble learning t
 
 ## SECTION 5 : USER GUIDE
 
-`Refer to appendix <Installation & User Guide> in project report at Github Folder: ProjectReport`
+`Refer to appendix <User Guide> in project report at Github Folder: ProjectReport`
 
 ---
 
