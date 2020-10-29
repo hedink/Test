@@ -21,14 +21,14 @@ We began by dealing with the unbalanced dataset, and utilize ensemble learning t
 | :------------ |:---------------:| :-----| :-----|
 | Tao Xiyan | A0108517H |Overall system implementation and validation, project management and documentation | anirban.karchaudhuri@gmail.com |
 | Zhang Zekun | A0178453W |Overall system design, modelling, use case & algorithm design, system implementation | mvskrishna@yahoo.com |
-| Shi Zhaoheng | A0213557E |Overall system design, modelling, technical architecture design, system implementation | manojniyogi@yahoo.com |
+| Shi Zhaoheng | A0215413U |Webpage design, Web backend system design, system integration, documentation | manojniyogi@yahoo.com |
 
 ---
 
 ## SECTION 4 : VIDEO OF SYSTEM MODELLING & USE CASE DEMO
 <div align="center">
-  <a href="https://youtu.be/LX3SzWYeCGo">
-    <img src="http://i3.ytimg.com/vi/LX3SzWYeCGo/hqdefault.jpg" alt="CHURN Project Video">
+  <a href="https://onedrive.live.com/?authkey=%21AGDVYhEyA7PahL4&cid=16C7FE8BA834E5DC&id=16C7FE8BA834E5DC%21909&parId=16C7FE8BA834E5DC%21804&o=OneUp">
+    <img src="https://vxryla.bn.files.1drv.com/y4pdeU7uiw97hrDO_wBiV6RxdCf7Sad0XoqmyYZvXxprZH55YwY6Bz78qP_5v2aRrmVPkZ1N2X3m8qY4HBY5m2yXv95IUs-A89cX_V31IM9pjm0hPVvNoFHJn3BTSy9-X2ncMmCS5wFlkbG9aXU3ihE8nWtyd93pP7tVmSOHSMjt5cfajbwtddokvwolJCzYslLNs4brqP8k4N1_miWUWBpqQ/Project%20one%20cover.jpg" alt="Project Introduction Video">
   </a>
 </div>
 
