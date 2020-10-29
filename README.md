@@ -36,19 +36,19 @@ We began by dealing with the unbalanced dataset, and utilize ensemble learning t
 
 ## SECTION 5 : USER GUIDE
 
-`Refer to appendix User Guide in project report at Github Folder: ProjectReport `<a href="https://github.com/hedink/Test/blob/main/ProjectReport/User%20Guide.docx">click here</a>
+`Refer to appendix User Guide in project report at Github Folder: ProjectReport` <a href="https://github.com/hedink/Test/blob/main/ProjectReport/User%20Guide.docx">click here</a>
 
 ---
 
 ## SECTION 6 : PROJECT REPORT / PAPER
 
-`Refer to Project Report at Github Folder: ProjectReport `<a href="https://github.com/hedink/Test/blob/main/ProjectReport/Project%20Report.docx">click here</a>
+`Refer to Project Report at Github Folder: ProjectReport` <a href="https://github.com/hedink/Test/blob/main/ProjectReport/Project%20Report.docx">click here</a>
 
 ---
 
 ## SECTION 7 : MISCELLANEOUS
 
-`Refer to Github Folder: Miscellaneous`
+`Refer to Github Folder: Miscellaneous` <a href="https://github.com/hedink/Test/blob/main/ProjectReport/Project%20Report.docx">click here</a>
 
 ---
 
